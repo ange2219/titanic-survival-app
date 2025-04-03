@@ -10,7 +10,7 @@ This is my first Streamlit project for training in Data Science. It uses a Machi
 - Deployed on Streamlit Community Cloud.
 
 ## How to Use:
-1. Open the app link (once deployed).
+1. Open the app link (https://titanic-survival-app-dm6nax9vrmeeqwbar4ql5x.streamlit.app/).
 2. Input your details:
    - Passenger class (1, 2, or 3)
    - Age
